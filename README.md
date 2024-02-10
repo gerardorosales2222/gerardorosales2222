@@ -1,8 +1,13 @@
-<img src="https://i.imgur.com/NrHKH3r.jpg">
-I’m a computer science teacher who enjoys programming and teaching. I guide university students to master programming in subjects like algorithms and data structures, object oriented programming, and databases, and succeed in their exams. 💻<br>
-<br><h3>🎓 Education</h3>- Technical career in Systems Analysis and Design (2007)<br>- Professor in Computer Science (2023)<br>- Systems Engineering (in progress)<br>
-<br><h3>🌱 Skills</h3>- Programming languages: C, C++, Java, Python.<br>- Web development: HTML, CSS, JavaScript, Django.<br>- Database management: SQL, MySQL, MongoDB.<br>- Software engineering: UML, design patterns, testing.<br>- Teaching methods: online, blended, classroom-based.<br>
-<br><h3>🏆 Achievements</h3>- Developed several open-source projects and contributed to other repositories.<br>- Mentored and supervised many students and junior colleagues.<br>- Received recognitions for my teaching excellence.<br>- Published some articles on the importance of programming education for the development of the region's economy and companies.
+## Hi there! I'm Gerardo 👋
+
+I’m a computer science teacher who enjoys programming and teaching. I guide university students to master programming in subjects like algorithms and data structures, object oriented programming, and databases, and succeed in their exams. 💻<br><br>
+<img src="https://i.imgur.com/Vf1qhzI.jpg">
+
+> <h3>🎓 Education</h3>- Technical career in Systems Analysis and Design (2007)<br>- Professor in Computer Science (2023)<br>- Systems Engineering (in progress)<br>
+
+> <h3>🌱 Skills</h3>- Programming languages: C, C++, Java, Python.<br>- Web development: HTML, CSS, JavaScript, Django.<br>- Database management: SQL, MySQL, MongoDB.<br>- Software engineering: UML, design patterns, testing.<br>- Teaching methods: online, blended, classroom-based.<br>
+
+> <h3>🏆 Achievements</h3>- Developed several open-source projects and contributed to other repositories.<br>- Mentored and supervised many students and junior colleagues.<br>- Received recognitions for my teaching excellence.<br>- Published some articles on the importance of programming education for the development of the region's economy and companies.
 
 
 ### 🌐 Socials:
