@@ -1,7 +1,6 @@
 ## Hi there! I'm Gerardo 👋
 
 I’m a computer science teacher who enjoys programming and teaching. I guide university students to master programming in subjects like algorithms and data structures, object oriented programming, and databases, and succeed in their exams. 💻<br><br>
-<img src="https://i.imgur.com/Vf1qhzI.jpg">
 
 > <h3>🎓 Education</h3>- Technical career in Systems Analysis and Design (2007)<br>- Professor in Computer Science (2023)<br>- Systems Engineering (in progress)<br>
 
